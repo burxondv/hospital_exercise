@@ -1,0 +1,1 @@
+we need run in main.go because I worked with other packages
