@@ -46,7 +46,7 @@ const (
 	PostgresPort     = 5432
 	PostgresUser     = "postgres"
 	PostgresPassword = "bnnfav"
-	PostgresDatabase = "hospital_support"
+	PostgresDatabase = "hospital_migrate"
 )
 
 func Hosp() {
