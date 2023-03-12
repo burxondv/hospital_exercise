@@ -1,4 +1,4 @@
-# Najot Ta'lim -> 2023
+# Najot Ta'lim in february 2023
 
 mini hospital - exercise from support teacher for theme: migrations
 
